@@ -1,0 +1,384 @@
+{
+  "jobs": [
+    {
+      "position": "Frontend Developer",
+      "company": "Google",
+      "location": "San Francisco, ABD",
+      "status": "Devam Ediyor",
+      "type": "Uzaktan",
+      "date": 1714602002418,
+      "id": "f1g2h3i4",
+      "logo": "https://logo.clearbit.com/google.com"
+    },
+    {
+      "position": "Backend Developer",
+      "company": "Amazon",
+      "location": "Seattle, ABD",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "date": 1712607002328,
+      "id": "j5k6l7m8",
+      "logo": "https://logo.clearbit.com/amazon.com"
+    },
+    {
+      "position": "Software Engineer",
+      "company": "Meta",
+      "location": "New York, ABD",
+      "status": "Devam Ediyor",
+      "type": "Yarı Zamanlı",
+      "date": 1716607002428,
+      "id": "n9o1p2q3",
+      "logo": "https://logo.clearbit.com/meta.com"
+    },
+    {
+      "position": "UI/UX Designer",
+      "company": "Apple",
+      "location": "Cupertino, ABD",
+      "status": "Reddedildi",
+      "type": "Tam Zamanlı",
+      "date": 1718607013502,
+      "id": "r4s5t6u7",
+      "logo": "https://logo.clearbit.com/apple.com"
+    },
+    {
+      "position": "Full Stack Developer",
+      "company": "Tesla",
+      "location": "Austin, ABD",
+      "status": "Devam Ediyor",
+      "type": "Uzaktan",
+      "date": 1715607078538,
+      "id": "v8w9x1y2",
+      "logo": "https://logo.clearbit.com/tesla.com"
+    },
+    {
+      "position": "Mobile Developer",
+      "company": "Spotify",
+      "location": "Stockholm, İsveç",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "date": 1712608152577,
+      "id": "z3a4b5c6",
+      "logo": "https://logo.clearbit.com/spotify.com"
+    },
+    {
+      "position": "Product Designer",
+      "company": "Adobe",
+      "location": "San Jose, ABD",
+      "status": "Devam Ediyor",
+      "type": "Yarı Zamanlı",
+      "date": 1720550896851,
+      "id": "d7e8f9g1",
+      "logo": "https://logo.clearbit.com/adobe.com"
+    },
+    {
+      "position": "Game Developer",
+      "company": "Nintendo",
+      "location": "Tokyo, Japonya",
+      "status": "Reddedildi",
+      "type": "Tam Zamanlı",
+      "date": 1720552344626,
+      "id": "h2i3j4k5",
+      "logo": "https://logo.clearbit.com/nintendo.com"
+    },
+    {
+      "position": "Machine Learning Engineer",
+      "company": "OpenAI",
+      "location": "San Francisco, ABD",
+      "status": "Devam Ediyor",
+      "type": "Uzaktan",
+      "date": 1741804953944,
+      "id": "l6m7n8o9",
+      "logo": "https://logo.clearbit.com/openai.com"
+    },
+    {
+      "position": "Security Engineer",
+      "company": "Cisco",
+      "location": "Ankara, Türkiye",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "date": 1741805011877,
+      "id": "p1q2r3s4",
+      "logo": "https://logo.clearbit.com/cisco.com"
+    },
+    {
+      "position": "Blockchain Developer",
+      "company": "Binance",
+      "location": "Singapur",
+      "status": "Devam Ediyor",
+      "type": "Uzaktan",
+      "date": 1741856123456,
+      "id": "t5u6v7w8",
+      "logo": "https://logo.clearbit.com/binance.com"
+    },
+    {
+      "position": "DevOps Engineer",
+      "company": "IBM",
+      "location": "Berlin, Almanya",
+      "status": "Reddedildi",
+      "type": "Tam Zamanlı",
+      "date": 1741856789012,
+      "id": "x9y1z2a3",
+      "logo": "https://logo.clearbit.com/ibm.com"
+    },
+    {
+      "position": "Frontend Developer",
+      "company": "Netflix",
+      "location": "Los Angeles, ABD",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "date": 1742455003456,
+      "id": "y7z8a9b0",
+      "logo": "https://logo.clearbit.com/netflix.com"
+    },
+    {
+      "position": "Backend Developer",
+      "company": "Microsoft",
+      "location": "Redmond, ABD",
+      "status": "Devam Ediyor",
+      "type": "Yarı Zamanlı",
+      "date": 1742456112345,
+      "id": "b1c2d3e4",
+      "logo": "https://logo.clearbit.com/microsoft.com"
+    },
+    {
+      "position": "Full Stack Developer",
+      "company": "Uber",
+      "location": "San Francisco, ABD",
+      "status": "Reddedildi",
+      "type": "Uzaktan",
+      "date": 1742497001234,
+      "id": "d5e6f7g8",
+      "logo": "https://logo.clearbit.com/uber.com"
+    },
+    {
+      "position": "Mobile Developer",
+      "company": "Instagram",
+      "location": "Los Angeles, ABD",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "date": 1742498123456,
+      "id": "h8i9j0k1",
+      "logo": "https://logo.clearbit.com/instagram.com"
+    },
+    {
+      "position": "Game Developer",
+      "company": "Sony",
+      "location": "Tokyo, Japonya",
+      "status": "Devam Ediyor",
+      "type": "Yarı Zamanlı",
+      "date": 1742602108765,
+      "id": "l3m4n5o6",
+      "logo": "https://logo.clearbit.com/sony.com"
+    },
+    {
+      "position": "Product Designer",
+      "company": "Spotify",
+      "location": "Stockholm, İsveç",
+      "status": "Reddedildi",
+      "type": "Tam Zamanlı",
+      "date": 1742603001234,
+      "id": "p7q8r9s0",
+      "logo": "https://logo.clearbit.com/spotify.com"
+    },
+    {
+      "position": "Machine Learning Engineer",
+      "company": "Tesla",
+      "location": "Austin, ABD",
+      "status": "Mülakat",
+      "type": "Uzaktan",
+      "date": 1742701004567,
+      "id": "t3u4v5w6",
+      "logo": "https://logo.clearbit.com/tesla.com"
+    },
+    {
+      "position": "UI/UX Designer",
+      "company": "Adobe",
+      "location": "San Jose, ABD",
+      "status": "Devam Ediyor",
+      "type": "Yarı Zamanlı",
+      "date": 1742902001234,
+      "id": "z1a2b3c4",
+      "logo": "https://logo.clearbit.com/adobe.com"
+    },
+    {
+      "position": "Frontend Developer",
+      "company": "Salesforce",
+      "location": "San Francisco, ABD",
+      "status": "Reddedildi",
+      "type": "Tam Zamanlı",
+      "date": 1742903003456,
+      "id": "c5d6e7f8",
+      "logo": "https://logo.clearbit.com/salesforce.com"
+    },
+    {
+      "position": "Backend Developer",
+      "company": "Oracle",
+      "location": "Redwood City, ABD",
+      "status": "Mülakat",
+      "type": "Uzaktan",
+      "date": 1743004123456,
+      "id": "e9f0g1h2",
+      "logo": "https://logo.clearbit.com/oracle.com"
+    },
+    {
+      "position": "Full Stack Developer",
+      "company": "Twitter",
+      "location": "San Francisco, ABD",
+      "status": "Devam Ediyor",
+      "type": "Tam Zamanlı",
+      "date": 1743106001234,
+      "id": "j1k2l3m4",
+      "logo": "https://logo.clearbit.com/twitter.com"
+    },
+    {
+      "position": "Mobile Developer",
+      "company": "Snapchat",
+      "location": "Santa Monica, ABD",
+      "status": "Reddedildi",
+      "type": "Uzaktan",
+      "date": 1743107123456,
+      "id": "k5l6m7n8",
+      "logo": "https://logo.clearbit.com/snapchat.com"
+    },
+    {
+      "position": "Game Developer",
+      "company": "Blizzard",
+      "location": "Irvine, ABD",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "date": 1743208004567,
+      "id": "o9p0q1r2",
+      "logo": "https://logo.clearbit.com/blizzard.com"
+    },
+    {
+      "position": "Product Designer",
+      "company": "Google",
+      "location": "Mountain View, ABD",
+      "status": "Devam Ediyor",
+      "type": "Yarı Zamanlı",
+      "date": 1743309003456,
+      "id": "q3r4s5t6",
+      "logo": "https://logo.clearbit.com/google.com"
+    },
+    {
+      "position": "Machine Learning Engineer",
+      "company": "Amazon",
+      "location": "Seattle, ABD",
+      "status": "Reddedildi",
+      "type": "Tam Zamanlı",
+      "date": 1743402005678,
+      "id": "v9w0x1y2",
+      "logo": "https://logo.clearbit.com/amazon.com"
+    },
+    {
+      "position": "Blockchain Developer",
+      "company": "Facebook",
+      "location": "Menlo Park, ABD",
+      "status": "Devam Ediyor",
+      "type": "Yarı Zamanlı",
+      "date": 1743509003456,
+      "id": "x3y4z5a6",
+      "logo": "https://logo.clearbit.com/facebook.com"
+    },
+    {
+      "position": "DevOps Engineer",
+      "company": "Google",
+      "location": "San Francisco, ABD",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "date": 1743505001234,
+      "id": "y5z6a7b8",
+      "logo": "https://logo.clearbit.com/google.com"
+    },
+    {
+      "position": "Frontend Developer",
+      "company": "Dropbox",
+      "location": "San Francisco, ABD",
+      "status": "Devam Ediyor",
+      "type": "Uzaktan",
+      "date": 1743606002345,
+      "id": "z7a8b9c0",
+      "logo": "https://logo.clearbit.com/dropbox.com"
+    },
+    {
+      "position": "Backend Developer",
+      "company": "Slack",
+      "location": "San Francisco, ABD",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "date": 1743607003456,
+      "id": "a1b2c3d4",
+      "logo": "https://logo.clearbit.com/slack.com"
+    },
+    {
+      "position": "Full Stack Developer",
+      "company": "Airbnb",
+      "location": "San Francisco, ABD",
+      "status": "Devam Ediyor",
+      "type": "Yarı Zamanlı",
+      "date": 1743705002345,
+      "id": "c2d3e4f5",
+      "logo": "https://logo.clearbit.com/airbnb.com"
+    },
+    {
+      "position": "Mobile Developer",
+      "company": "Pinterest",
+      "location": "San Francisco, ABD",
+      "status": "Reddedildi",
+      "type": "Tam Zamanlı",
+      "date": 1743706003456,
+      "id": "f4g5h6i7",
+      "logo": "https://logo.clearbit.com/pinterest.com"
+    },
+    {
+      "position": "Game Developer",
+      "company": "EA",
+      "location": "Redwood City, ABD",
+      "status": "Mülakat",
+      "type": "Uzaktan",
+      "date": 1743807001234,
+      "id": "i8j9k0l1",
+      "logo": "https://logo.clearbit.com/ea.com"
+    },
+    {
+      "position": "Product Designer",
+      "company": "Figma",
+      "location": "San Francisco, ABD",
+      "status": "Devam Ediyor",
+      "type": "Yarı Zamanlı",
+      "date": 1743808003456,
+      "id": "l2m3n4o5",
+      "logo": "https://logo.clearbit.com/figma.com"
+    },
+    {
+      "position": "Machine Learning Engineer",
+      "company": "Twitter",
+      "location": "San Francisco, ABD",
+      "status": "Reddedildi",
+      "type": "Tam Zamanlı",
+      "date": 1743904001234,
+      "id": "p6q7r8s9",
+      "logo": "https://logo.clearbit.com/twitter.com"
+    },
+    {
+      "position": "Blockchain Developer",
+      "company": "Stripe",
+      "location": "San Francisco, ABD",
+      "status": "Devam Ediyor",
+      "type": "Yarı Zamanlı",
+      "date": 1743905002345,
+      "id": "t7u8v9w0",
+      "logo": "https://logo.clearbit.com/stripe.com"
+    },
+    {
+      "position": "DevOps Engineer",
+      "company": "Zoom",
+      "location": "San Jose, ABD",
+      "status": "Mülakat",
+      "type": "Tam Zamanlı",
+      "date": 1744006001234,
+      "id": "a0b1c2d3",
+      "logo": "https://logo.clearbit.com/zoom.com"
+    }
+  ]
+}
